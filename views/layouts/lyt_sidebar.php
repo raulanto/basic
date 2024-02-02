@@ -347,7 +347,7 @@ use yii\bootstrap5\Html;
 
     <!-- Sidebar Message -->
     <div class="sidebar-card d-none d-lg-flex">
-        <img class="sidebar-card-illustration mb-2" src="<?= Yii::getAlias('@web') ?>/img/sun.svg" alt="...">
+        <img class="sidebar-card-illustration mb-2"  alt="...">
         <p class="text-center mb-2" style="color:white"><strong>Hoy es un gran día </strong> para ser feliz y mejorar</p>
         <!-- <a class="btn btn-success btn-sm" href="https://startbootstrap.com/theme/sb-admin-pro">Upgrade to Pro!</a> -->
     </div>

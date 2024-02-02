@@ -3,6 +3,9 @@
 /** @var yii\web\View $this */
 use kartik\sidenav\SideNav;
 
+$this->title = 'My Yii Application';
+
+
 ?>
 <!-- Begin Page Content -->
 <div class="container-fluid">
