@@ -5,7 +5,9 @@
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
-[Vendor]([https://www.yiiframework.com/](https://drive.google.com/drive/folders/11r3KbYmYjZ0M_9vmPe361GrhRFk5Br-p?usp=sharing)) 
+Vendor
+https://drive.google.com/drive/folders/11r3KbYmYjZ0M_9vmPe361GrhRFk5Br-p?usp=sharing
+
 
 -------------------
 
