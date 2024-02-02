@@ -11,7 +11,7 @@ use yii\bootstrap5\Html;
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Prácticas y servicio social</div>
+        <div class="sidebar-brand-text mx-3">Plantilla de practica</div>
     </a>
 
     <!-- Divider -->

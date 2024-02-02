@@ -21,7 +21,7 @@ use yii\bootstrap5\Html;
 
             <div class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
                     <div class="input-group">
-                    <h6 class="m-0 font-weight-bold text-primary">Sistema Integral Escuela RMGE Educación preescolar</h6>
+                    <h6 class="m-0 font-weight-bold text-primary">Sistema Integral</h6>
                     </div>
             </div>
             <!-- Topbar Navbar -->
@@ -40,7 +40,7 @@ use yii\bootstrap5\Html;
                 <li class="nav-item dropdown no-arrow">
                     <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <span class="mr-2 d-none d-lg-inline text-gray-600 small"><?= Yii::$app->user->identity->username;?></span>
+                        <span class="mr-2 d-none d-lg-inline text-gray-600 small"><?php /* Yii::$app->user->identity->username */;?></span>
                             <img class="img-profile rounded-circle" src="<?= Yii::getAlias('@web') ?>/img/undraw_profile.svg">
                     </a>
                     <!-- Dropdown - User Information -->
